@@ -1,4 +1,5 @@
 PY?=
+PELICAN?=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
